@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   <img src="https://icons8.com/icon/108784/javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src=https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   
+  ![image](https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png)
+
+  
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;

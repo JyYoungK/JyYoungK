@@ -32,7 +32,7 @@
 
 ## :man_technologist: About Me :
 
-I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">
+I am a Frontend Developer from Toronto, Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/uDK2KwBp4OHfw9k2Wv/giphy.gif"/>
 
 - 🖼️ Portfolio: https://junyoung-portfolio.vercel.app/

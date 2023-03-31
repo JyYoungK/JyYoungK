@@ -99,7 +99,7 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
 <!-- (https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle) -->
 <div algin="center">
   <a href="https://open.spotify.com/user/Johnny Kang">
-     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"/>
+     https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle
   </a>
 </div>
 ###

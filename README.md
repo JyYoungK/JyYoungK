@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/embed/oOrGB2hdeCGKU3Yagc)" width="100"/>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/johnny-kang-ab689368/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -52,7 +53,9 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/28119362/229187247-d8667bf3-c3a8-4035-bd87-f178fbbb42a6.png" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229186553-0860e270-ced9-4161-b81b-62f7fe364f1c.png" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229186717-b8c38241-2045-4155-b44a-07fd02d13820.png" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/28119362/229186883-bd15eeb2-bcfe-480a-95a4-057b1e3c213d.png" title="Git" **alt="Git" width="60" height="60"/>
+  <img src="https://user-images.githubusercontent.com/28119362/229186883-bd15eeb2-bcfe-480a-95a4-057b1e3c213d.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/28119362/229188849-ab76ef43-52b0-4a0a-b5be-4d7f6b37c17e.png" title="Photoshop" alt="Photoshop" width="60" height="60"/>
+
 </div>
 
 

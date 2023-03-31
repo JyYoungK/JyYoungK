@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/oOrGB2hdeCGKU3Yagc/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/oOrGB2hdeCGKU3Yagc/giphy.gif" width="150"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/johnny-kang-ab689368/">

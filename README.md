@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
     <a href="https://www.youtube.com/channel/UC5tNsxkshctFCydkrwHKuTw">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://junyoung-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website Badge"/>
@@ -19,7 +19,7 @@
 
 
   <h1>
-     Hola, I'm Vishal
+     Hi! I'm Junyoung
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 

@@ -96,6 +96,7 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
  -->
 
 ---
+
 ###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle)
 

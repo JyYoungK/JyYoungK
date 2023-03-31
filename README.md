@@ -88,10 +88,9 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
 
 ### :fire: My Status :
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex-basis: 50%;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyoungk&show_icons=true&locale=en&layout=compact" alt="jyyoungk" /></div>
-  <div style="flex-basis: 50%;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jyyoungk&show_icons=true&locale=en" alt="jyyoungk" /></div>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyoungk&show_icons=true&locale=en&layout=compact" alt="jyyoungk" /></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=jyyoungk&show_icons=true&locale=en" alt="jyyoungk" 
+
  -->
 
 ---

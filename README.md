@@ -30,7 +30,7 @@
 
 ---
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/uDK2KwBp4OHfw9k2Wv/giphy.gif"/>
@@ -46,7 +46,7 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 
 <div align="center">
@@ -86,7 +86,7 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
 
 ---
 
-### :fire: My Github Status :
+## :fire: My Github Status :
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyoungk&show_icons=true&locale=en&layout=compact" alt="jyyoungk" />
   <img src="https://github-readme-stats.vercel.app/api?username=jyyoungk&show_icons=true&locale=en" alt="jyyoungk"/>
@@ -94,15 +94,15 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
 
 ---
 
-### 🙂 Have a great day! 
+## 🙂 Have a great day! 
 
-# I am listening to 🎵
+### I am listening to 🎵
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle)
 
-# Random Dev Quote ✍️
+### Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# Random Dev Meme 😂
+### Random Dev Meme 😂
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ###

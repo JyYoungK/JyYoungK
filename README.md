@@ -60,13 +60,13 @@ I am a Frontend Developer from Toronto, Canada <img src="https://upload.wikimedi
   <img src="https://user-images.githubusercontent.com/28119362/229196400-0a215f77-d68a-4579-9ab9-ab67e979ad6b.png" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
 
   <h3> Backend Development </h3>
-    <img src="https://user-images.githubusercontent.com/28119362/229187173-1081ce87-8132-4750-b34d-57c1c5ddb166.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp; 
+    <img src="https://user-images.githubusercontent.com/28119362/229187173-1081ce87-8132-4750-b34d-57c1c5ddb166.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229196660-fae2f3d4-63b8-4949-89f7-fd42c64b5b9d.png" title="GraphQL" alt="GraphQL" width="60" height="60"/>&nbsp; 
 
   <h3> Database </h3>
     <img src="https://user-images.githubusercontent.com/28119362/229187247-d8667bf3-c3a8-4035-bd87-f178fbbb42a6.png" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/28119362/229197325-77f7ea93-3f60-4c77-9ae7-ed875ef2e836.png" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
-    <img src="https://user-images.githubusercontent.com/28119362/229186553-0860e270-ced9-4161-b81b-62f7fe364f1c.png" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/28119362/229197325-77f7ea93-3f60-4c77-9ae7-ed875ef2e836.png" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/28119362/229186553-0860e270-ced9-4161-b81b-62f7fe364f1c.png" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/28119362/229186717-b8c38241-2045-4155-b44a-07fd02d13820.png" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
   
   <h3> Software </h3>

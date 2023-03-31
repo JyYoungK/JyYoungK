@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src=https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://icons8.com/icon/108784/javascript" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src=https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   
   ![image](https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png)

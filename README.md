@@ -88,10 +88,11 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
 
 ### :fire: My Status :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyoungk&show_icons=true&locale=en&layout=compact" alt="jyyoungk" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyoungk&show_icons=true&locale=en&layout=compact" alt="jyyoungk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyyoungk&show_icons=true&locale=en" alt="jyyoungk" /></p>
-
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyyoungk&show_icons=true&locale=en" alt="jyyoungk" /></p>
+</div>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyyoungk&" alt="jyyoungk" /></p>
  -->
 

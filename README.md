@@ -99,9 +99,8 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
 ### I am listening to 🎵
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle)
 
-### Random Dev Quote ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### Random Dev Meme 😂
 <img src="https://rm.up.railway.app/" width="512px"/>
 
+### Random Dev Quote ✍️
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

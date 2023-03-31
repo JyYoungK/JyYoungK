@@ -39,7 +39,7 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
 - 💻 L𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **UI/UX And 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.** 
 - ❓ I help people on discord related to Frontend/Javascript here https://discord.gg/programming <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="15" height="15"/>&nbsp;
 - 💬 Quote: Treat others how you want people to treat you
-- ✨ Really 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I was born on the exact same date as** <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="20" height="20"/> **first appeared**   
+- ✨ Really 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I was born on the exact same date as** <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="17" height="17"/> **first appeared**   
 
 ---
 

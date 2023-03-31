@@ -30,7 +30,7 @@
 ### :man_technologist: About Me :
 
 I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">
-<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/uDK2KwBp4OHfw9k2Wv/giphy.gif"/>
 
 - 📕 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Frontend/Full Stack Development.**
 - 🌱 𝙸’𝚖 am interested in **Stunning Websites | AI | Space | Music | Cats**
@@ -46,7 +46,7 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
 
 <div align="center">
   <h3> Frontend Development </h3>
-  <img src="https://user-images.githubusercontent.com/28119362/229196212-1b8b3bda-aa74-436c-95b7-aa335eacbe26.png" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/28119362/229198580-8c9a0e34-ac71-41b2-88f7-3bb088e4577e.png" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229185465-0607d231-1d52-4473-859b-6be36106538a.png" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229185351-138f31b4-6e72-49d8-9059-fbbf7b5ba362.png" title="CSS" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;

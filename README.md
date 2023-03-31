@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
     <a href="https://www.youtube.com/channel/UC5tNsxkshctFCydkrwHKuTw">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="Youtube Badge"/>
   </a>
   <a href="https://junyoung-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website Badge"/>
@@ -92,4 +92,11 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyyoungk&" alt="jyyoungk" /></p>
  -->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle)
+###
+<!-- (https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle) -->
+<div algin="center">
+  <a href="https://open.spotify.com/user/Johnny Kang">
+     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"/>
+  </a>
+</div>
+###

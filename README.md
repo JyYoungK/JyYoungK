@@ -15,15 +15,6 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website Badge"/>
   </a>
 </div>
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyyoungk&label=Profile%20views&color=0e75b6&style=flat" alt="jyyoungk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyyoungk" alt="jyyoungk" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/interesting theories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="interesting theories" height="30" width="40" /></a>
-</p>
 
   <h1>
      Hi! I'm Junyoung

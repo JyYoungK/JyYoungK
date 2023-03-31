@@ -91,3 +91,5 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyyoungk&" alt="jyyoungk" /></p>
  -->
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle)

@@ -33,11 +33,11 @@ I am a Frontend Developer from Canada <img src="https://upload.wikimedia.org/wik
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 
 - 📕 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Frontend/Full Stack Development.**
-- 🌱 𝙸’𝚖 am interested in **Stunning Websites | AI | Space | Music | Cats **
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **UI/UX And 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
-- 💬 I help people on discord related to Frontend/Javascript here https://discord.gg/programming   <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="30" height="30"/>&nbsp;
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-- ⚡ Really 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I was born on the exact same date as Javascript first appeared***
+- 🌱 𝙸’𝚖 am interested in **Stunning Websites | AI | Space | Music | Cats**
+- 💻 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **UI/UX And 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.** 
+- 💬 I help people on discord related to Frontend/Javascript here https://discord.gg/programming   <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="10" height="10"/>&nbsp;
+- 💪 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.** 
+- ⚡ Really 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **I was born on the exact same date as Javascript first appeared***   <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="10" height="10"/>&nbsp;
 
 ---
 

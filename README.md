@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/oOrGB2hdeCGKU3Yagc/giphy.gif" width="150"/>
 
-<!-- <div id="badges">
+  
+  
+<div id="badges">
   <a href="https://www.linkedin.com/in/johnny-kang-ab689368/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -22,14 +24,12 @@
   <h1>
      Hi! I'm Junyoung
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1> -->
-
-
+  </h1>
 
 
 
 ---
-
+  
 ## :man_technologist: About Me :
 
 I am a Frontend Developer from Toronto, Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">

@@ -99,12 +99,6 @@ I am a Frontend Developer from Toronto, Canada <img src="https://upload.wikimedi
 ### I am listening to 🎵
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xoxnjcxhjvaar2bdmalbel5yle&cover_image=true&theme=default&show_offline=false&background_color=b81463&interchange=false&bar_color_cover=true&bar_color=00bfff)](https://spotify-github-profile.vercel.app/api/view?uid=31xoxnjcxhjvaar2bdmalbel5yle&redirect=true)
 
-<style>
-img[src='https://spotify-github-profile.vercel.app/api/view?uid=31xoxnjcxhjvaar2bdmalbel5yle&cover_image=true&theme=default&show_offline=false&background_color=b81463&interchange=false&bar_color_cover=true&bar_color=00bfff'] {
-    height: 250px; /* replace with the height of the first element */
-}
-</style>
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle)
 
 

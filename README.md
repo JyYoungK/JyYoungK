@@ -98,7 +98,7 @@ I am a Frontend Developer from Toronto, Canada <img src="https://upload.wikimedi
 
 ### I am listening to 🎵
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xoxnjcxhjvaar2bdmalbel5yle&cover_image=true&theme=default&show_offline=false&background_color=b81463&interchange=false&bar_color_cover=true&bar_color=00bfff)](https://spotify-github-profile.vercel.app/api/view?uid=31xoxnjcxhjvaar2bdmalbel5yle&redirect=true)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle&count=7)
 
 ### Random Dev Meme 😂
 <img src="https://rm.up.railway.app/" width="512px"/>

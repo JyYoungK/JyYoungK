@@ -30,6 +30,7 @@
 
 ---
   
+  
 ## :man_technologist: I am a Frontend Developer from Toronto, Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">
  
 
@@ -44,8 +45,10 @@
  - 💬 Quote: Treat others how you want people to treat you
  - ✨ Really Fun Fact : **I was born on the exact same date as** <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="17" height="17"/> **first appeared**   
 
+  
 ---
 
+  
 ## :hammer_and_wrench: Languages and Tools :
 
 

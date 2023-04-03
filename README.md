@@ -88,10 +88,8 @@ I am a Frontend Developer from Toronto, Canada <img src="https://upload.wikimedi
 
 ## :fire: My Github Status :
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyoungk&show_icons=true&locale=en&layout=compact" alt="jyyoungk" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyoungk&show_icons=true&locale=en&layout=compact" alt="jyyoungk" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=jyyoungk&show_icons=true&locale=en" alt="jyyoungk"/>
-
-</div>
 ---
 
 ## 🙂 Have a great day! 
@@ -105,3 +103,6 @@ I am a Frontend Developer from Toronto, Canada <img src="https://upload.wikimedi
 
 ### Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+

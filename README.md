@@ -88,9 +88,9 @@
 
 ## :fire: My Github Status :
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyoungk&show_icons=true&locale=en&layout=compact" alt="jyyoungk" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyoungk&show_icons=true&locale=en&layout=compact" alt="jyyoungk" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=jyyoungk&show_icons=true&locale=en" alt="jyyoungk"/> -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyyoungk" alt="jyyoungk" /></a> </p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jyyoungk&theme=dark&hide_border=false)<br/>
 ---
 
 ## 🙂 Have a great day! 

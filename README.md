@@ -90,7 +90,7 @@
 
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyoungk&show_icons=true&locale=en&layout=compact" alt="jyyoungk" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=jyyoungk&show_icons=true&locale=en" alt="jyyoungk"/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=jyyoungk&theme=dark&hide_border=true&width=800)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jyyoungk&theme=dark&hide_border=false)<br/>
 ---
 
 ## 🙂 Have a great day! 

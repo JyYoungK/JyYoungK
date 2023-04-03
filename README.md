@@ -101,7 +101,6 @@ I am a Frontend Developer from Toronto, Canada <img src="https://upload.wikimedi
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle)
 
-
 ### Random Dev Meme 😂
 <img src="https://rm.up.railway.app/" width="512px"/>
 

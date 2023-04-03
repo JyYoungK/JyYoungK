@@ -23,7 +23,7 @@
 
   <h1>
      Hi! I'm Junyoung
-    <img src=https://media.tenor.com/BoDofDkAurYAAAAC/peachcry-peachmad.gif width="40px"/>
+    <img src=https://media.tenor.com/BoDofDkAurYAAAAC/peachcry-peachmad.gif width="40px" height="40px"/>
 <!--      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
   </h1>
 

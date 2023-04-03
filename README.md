@@ -35,14 +35,14 @@
 I am a Frontend Developer from Toronto, Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">
 <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/uDK2KwBp4OHfw9k2Wv/giphy.gif"/>
 
-- 🖼️ Portfolio: https://junyoung-portfolio.vercel.app/
-- 💪 Pronouns : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.** 
-- 📚 Currently working on **Frontend/Full Stack Development.**
-- 🌱 Interested In **Stunning Websites | AI | Space | Music | Cats**
-- 💻 Looking to collaborate on **UI/UX && 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 || AI projects** 
-- ❓ I help people related to Frontend/Javascript topics here https://discord.gg/programming <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="15" height="15"/>&nbsp;
-- 💬 Quote: Treat others how you want people to treat you
-- ✨ Really Fun Fact : **I was born on the exact same date as** <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="17" height="17"/> **first appeared**   
+ 🖼️ Portfolio: https://junyoung-portfolio.vercel.app/
+ 💪 Pronouns : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.** 
+ 📚 Currently working on **Frontend/Full Stack Development.**
+ 🌱 Interested In **Stunning Websites | AI | Space | Music | Cats**
+ 💻 Looking to collaborate on **UI/UX && 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 || AI projects** 
+ ❓ I help people related to Frontend/Javascript topics here https://discord.gg/programming <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="15" height="15"/>&nbsp;
+ 💬 Quote: Treat others how you want people to treat you
+ ✨ Really Fun Fact : **I was born on the exact same date as** <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="17" height="17"/> **first appeared**   
 
 ---
 

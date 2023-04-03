@@ -90,6 +90,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyoungk&show_icons=true&locale=en&layout=compact" alt="jyyoungk" />
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=jyyoungk&show_icons=true&locale=en" alt="jyyoungk"/> -->
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyyoungk&label=Profile%20views&color=0e75b6&style=flat" alt="jyyoungk" /> </p>
 ---
 
 ## 🙂 Have a great day! 

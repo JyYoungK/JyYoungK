@@ -24,7 +24,7 @@
   <h1>
      Hi! I'm Junyoung
     <img src="https://i.pinimg.com/originals/5d/94/26/5d942674089d3a885ac784393449c625.gif" width="40px" height="40px"/>
-<!--      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
+<!--      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30x"/> -->
   </h1>
 
 

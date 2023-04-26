@@ -44,7 +44,7 @@
  - 💻 Looking to collaborate on **UI/UX && 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 || AI projects** 
  - ❓ I help people related to Frontend questions here https://discord.gg/programming <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="15" height="15"/>&nbsp;
  - 💬 Quote: Treat others how you want people to treat you
- - ✨ Really Fun Fact : **I have the same birthday as** <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="17" height="17"/>    
+<!-- - ✨ Really Fun Fact : **I have the same birthday as** <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="17" height="17"/> -->
 
   
 ---
@@ -104,8 +104,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xoxnjcxhjvaar2bdmalbel5yle&cover_image=true&theme=default&show_offline=false&background_color=b81463&interchange=false&bar_color_cover=true&bar_color=00bfff)](https://spotify-github-profile.vercel.app/api/view?uid=31xoxnjcxhjvaar2bdmalbel5yle&redirect=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xoxnjcxhjvaar2bdmalbel5yle&count=7&width=330)
 
-### Random Dev Meme 😂
-<img src="https://rm.up.railway.app/" width="512px"/>
+<!-- ### Random Dev Meme 😂
+<img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ### Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

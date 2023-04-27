@@ -90,7 +90,7 @@
 
 ---
 
-## :fire: My Github Status :
+## :fire: My Github Summary :
 
 ![](https://github-readme-stats.vercel.app/api?username=jyyoungk&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jyyoungk&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

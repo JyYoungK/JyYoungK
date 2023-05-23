@@ -34,8 +34,8 @@
   
 ## :man_technologist: I am a FullStack Developer from Toronto, Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">
   
-<img align="right" height="220" width="320" alt="GIF" src=https://giphy.com/gifs/vaporwave-synthwave-retro-aesthetic-9zExs2Q2h1EHfE4P6G"/>
-<!--<img align="right" height="220" width="320" alt="GIF" src="https://media.giphy.com/media/uDK2KwBp4OHfw9k2Wv/giphy.gif"/>-->
+<img align="right" height="220" width="320" alt="GIF" src="https://media2.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif?cid=ecf05e47wenln6r2sbvtavntobmm47lmmw6sceb90roph0gk&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<!-- <img align="right" height="220" width="320" alt="GIF" src="https://media.giphy.com/media/uDK2KwBp4OHfw9k2Wv/giphy.gif"/> -->
 
  - 🖼️ Portfolio: https://junyoung-portfolio.vercel.app/
  - 💪 Pronouns : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.** 

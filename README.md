@@ -32,7 +32,7 @@
 ---
   
   
-## :man_technologist: I am a Frontend Developer from Toronto, Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">
+## :man_technologist: I am a FullStack Developer from Toronto, Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">
  
 
 <img align="right" height="220" width="320" alt="GIF" src="https://media.giphy.com/media/uDK2KwBp4OHfw9k2Wv/giphy.gif"/>

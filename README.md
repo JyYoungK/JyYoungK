@@ -4,7 +4,7 @@
   
   
 <div id="badges">
-  <a href="https://www.linkedin.com/in/johnny-kang-ab689368/">
+  <a href="https://www.linkedin.com/in/junyoung-kang-ab689368/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:johnnykang1204@gmail.com">

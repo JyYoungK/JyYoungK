@@ -91,17 +91,6 @@
 
 ---
 
-## :fire: My Github Summary :
-
-![](https://github-readme-stats.vercel.app/api?username=jyyoungk&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jyyoungk&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyyoungk&show_icons=true&locale=en&layout=compact" alt="jyyoungk" /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=jyyoungk&show_icons=true&locale=en" alt="jyyoungk"/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=jyyoungk&theme=dark&hide_border=false)<br/> -->
-<!--   ![Junyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JyYoungK&show_icons=true&theme=radical) -->
----
 
 ## 🙂 Have a great day! 
 

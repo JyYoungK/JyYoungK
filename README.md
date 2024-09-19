@@ -41,7 +41,7 @@
  - 💪 Pronouns : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.** 
  - 📚 Currently working on **Frontend/Full Stack Development.**
  - 🌱 Interested In **Stunning Websites | AI | Space | Music | Cats**
- - 💻 Looking to collaborate on **UI/UX && 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 || AI projects** 
+ - 💻 Looking to collaborate on **UI/UX && 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** 
  - ❓ I help people related to Frontend questions here https://discord.gg/programming <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="15" height="15"/>&nbsp;
  - 💬 Quote: Treat others how you want people to treat you
 <!-- - ✨ Really Fun Fact : **I have the same birthday as** <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="17" height="17"/> -->
@@ -61,7 +61,7 @@
   <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229199468-d0d9e2a0-96aa-462d-9f49-fad4c3d99730.png" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229185699-a01aa877-65a1-4d74-bbb4-e910bdeda0fa.png" title="Tailwind" alt="Tailwind" width="60" height="60"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/28119362/229196400-0a215f77-d68a-4579-9ab9-ab67e979ad6b.png" title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
+  
 
   <h3> Backend Development </h3>
     <img src="https://user-images.githubusercontent.com/28119362/229187173-1081ce87-8132-4750-b34d-57c1c5ddb166.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
@@ -82,7 +82,7 @@
     <img src="https://user-images.githubusercontent.com/28119362/229186883-bd15eeb2-bcfe-480a-95a4-057b1e3c213d.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="60" height="60"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/28119362/229197726-e42866d6-fc84-4c18-a66e-25660a04f302.png" title="Unreal Engine" alt="Unreal Engine" width="60" height="60"/>&nbsp;
+
 
 </div>
 

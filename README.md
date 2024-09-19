@@ -61,6 +61,7 @@
   <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229199468-d0d9e2a0-96aa-462d-9f49-fad4c3d99730.png" title="TypeScript" alt="TypeScript" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229185699-a01aa877-65a1-4d74-bbb4-e910bdeda0fa.png" title="Tailwind" alt="Tailwind" width="60" height="60"/>&nbsp;
+  <img src=https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000 title="NextJS" alt="NextJS" width="60" height="60"/>&nbsp;
   
 
   <h3> Backend Development </h3>
@@ -70,18 +71,14 @@
   <h3> Database </h3>
     <img src="https://user-images.githubusercontent.com/28119362/229187247-d8667bf3-c3a8-4035-bd87-f178fbbb42a6.png" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229197325-77f7ea93-3f60-4c77-9ae7-ed875ef2e836.png" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/28119362/229186553-0860e270-ced9-4161-b81b-62f7fe364f1c.png" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/28119362/229186717-b8c38241-2045-4155-b44a-07fd02d13820.png" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="GCP" alt="GCP" width="60" height="60"/>&nbsp;
-  
-  <h3> Software </h3>
-    <img src="https://user-images.githubusercontent.com/28119362/229188849-ab76ef43-52b0-4a0a-b5be-4d7f6b37c17e.png" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/28119362/229197493-1d98d8c6-0680-4eaf-8658-2704d2805eb5.png" title="Blender" alt="Blender" width="60" height="60"/>&nbsp;
 
   <h3> Other </h3>
     <img src="https://user-images.githubusercontent.com/28119362/229186883-bd15eeb2-bcfe-480a-95a4-057b1e3c213d.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="60" height="60"/>&nbsp;
+      <img src="https://user-images.githubusercontent.com/28119362/229188849-ab76ef43-52b0-4a0a-b5be-4d7f6b37c17e.png" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
+
 
 
 </div>

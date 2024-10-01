@@ -63,7 +63,6 @@
     <img src="https://user-images.githubusercontent.com/28119362/229197325-77f7ea93-3f60-4c77-9ae7-ed875ef2e836.png" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;&nbsp;
 
   <h3> Other </h3>
-  <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="60" height="60"/>&nbsp;
       <img src="https://user-images.githubusercontent.com/28119362/229188849-ab76ef43-52b0-4a0a-b5be-4d7f6b37c17e.png" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/fluency/100/midjourney.png" title="Midjourney" alt="Midjourney" width="60" height="60"/>&nbsp;

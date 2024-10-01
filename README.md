@@ -10,13 +10,13 @@
   <a href="mailto:johnnykang1204@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC5tNsxkshctFCydkrwHKuTw">
+<!--   <a href="https://www.youtube.com/channel/UC5tNsxkshctFCydkrwHKuTw">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="Youtube Badge"/>
-  </a>
+  </a> -->
   <a href="https://discord.gg/programming">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord Badge"/>
   </a>
-  <a href="https://hijunyoung.vercel.app/">
+  <a href="https://jykart.ca/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website Badge"/>
   </a>
 </div>

@@ -23,8 +23,6 @@
 
   <h1>
      Hi! I'm Junyoung
-    <img src="https://i.pinimg.com/originals/5d/94/26/5d942674089d3a885ac784393449c625.gif" width="40px" height="40px"/>
-<!--      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
   </h1>
 
 
@@ -37,11 +35,10 @@
 <img align="right" height="120" width="320" alt="GIF" src="https://media2.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif?cid=ecf05e47wenln6r2sbvtavntobmm47lmmw6sceb90roph0gk&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <!-- <img align="right" height="140" width="330" alt="GIF" src="https://media.giphy.com/media/uDK2KwBp4OHfw9k2Wv/giphy.gif"/> -->
 
- - 📚 Currently working on **Frontend/Full Stack Development.**
+ - 🍰 Javascript and I share the exact same **Birthday**
  - 🌱 Interested In **Stunning Websites | AI | Space |  Music | Cats**
- - 💻 Looking to collaborate on **UI/UX && 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** 
+ - 👔 Always down to collaborate on **Web Development/Photoshoot/Food** 
  - ❓ I help people related to Frontend questions here https://discord.gg/programming <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="15" height="15"/>&nbsp;
-<!-- - ✨ Really Fun Fact : **I have the same birthday as** <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="17" height="17"/> -->
 
   
 ---

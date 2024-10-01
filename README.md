@@ -66,7 +66,7 @@
   <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="60" height="60"/>&nbsp;
       <img src="https://user-images.githubusercontent.com/28119362/229188849-ab76ef43-52b0-4a0a-b5be-4d7f6b37c17e.png" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
-  <img src="https://img.icons8.com/fluency/48/midjourney.png" title="Midjourney" alt="Midjourney" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/fluency/100/midjourney.png" title="Midjourney" alt="Midjourney" width="60" height="60"/>&nbsp;
 
 
 

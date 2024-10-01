@@ -34,12 +34,11 @@
   
 ## :man_technologist: I am a FullStack Developer from Toronto, Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">
   
-<img align="right" height="220" width="320" alt="GIF" src="https://media2.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif?cid=ecf05e47wenln6r2sbvtavntobmm47lmmw6sceb90roph0gk&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right" height="250" width="320" alt="GIF" src="https://media2.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif?cid=ecf05e47wenln6r2sbvtavntobmm47lmmw6sceb90roph0gk&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 <!-- <img align="right" height="220" width="320" alt="GIF" src="https://media.giphy.com/media/uDK2KwBp4OHfw9k2Wv/giphy.gif"/> -->
 
- - 🖼️ Portfolio: https://jykart.vercel.app/
  - 📚 Currently working on **Frontend/Full Stack Development.**
- - 🌱 Interested In **Stunning Websites | AI | Space | Music | Cats**
+ - 🌱 Interested In **Stunning Websites | AI | Space |  Music | Cats**
  - 💻 Looking to collaborate on **UI/UX && 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** 
  - ❓ I help people related to Frontend questions here https://discord.gg/programming <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="15" height="15"/>&nbsp;
  - 💬 Quote: Treat others how you want people to treat you

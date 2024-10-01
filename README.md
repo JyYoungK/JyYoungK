@@ -38,7 +38,6 @@
 <!-- <img align="right" height="220" width="320" alt="GIF" src="https://media.giphy.com/media/uDK2KwBp4OHfw9k2Wv/giphy.gif"/> -->
 
  - 🖼️ Portfolio: https://jykart.vercel.app/
- - 💪 Pronouns : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.** 
  - 📚 Currently working on **Frontend/Full Stack Development.**
  - 🌱 Interested In **Stunning Websites | AI | Space | Music | Cats**
  - 💻 Looking to collaborate on **UI/UX && 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝** 
@@ -66,18 +65,16 @@
 
   <h3> Backend Development </h3>
     <img src="https://user-images.githubusercontent.com/28119362/229187173-1081ce87-8132-4750-b34d-57c1c5ddb166.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/28119362/229196660-fae2f3d4-63b8-4949-89f7-fd42c64b5b9d.png" title="GraphQL" alt="GraphQL" width="60" height="60"/>&nbsp; 
 
   <h3> Database </h3>
-    <img src="https://user-images.githubusercontent.com/28119362/229187247-d8667bf3-c3a8-4035-bd87-f178fbbb42a6.png" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229197325-77f7ea93-3f60-4c77-9ae7-ed875ef2e836.png" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;&nbsp;
 
   <h3> Other </h3>
     <img src="https://user-images.githubusercontent.com/28119362/229186883-bd15eeb2-bcfe-480a-95a4-057b1e3c213d.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" title="ThreeJS" alt="ThreeJS" width="55" height="55"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="60" height="60"/>&nbsp;
       <img src="https://user-images.githubusercontent.com/28119362/229188849-ab76ef43-52b0-4a0a-b5be-4d7f6b37c17e.png" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/fluency/48/midjourney.png" title="Midjourney" alt="Midjourney" width="60" height="60"/>&nbsp;
 
 
 

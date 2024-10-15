@@ -32,7 +32,7 @@
   
 ## :man_technologist: I am a FullStack Developer from Toronto, Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">
   
-<img align="right" height="120" width="320" alt="GIF" src="https://media2.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif?cid=ecf05e47wenln6r2sbvtavntobmm47lmmw6sceb90roph0gk&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<!-- <img align="right" height="120" width="320" alt="GIF" src="https://media2.giphy.com/media/9zExs2Q2h1EHfE4P6G/giphy.gif?cid=ecf05e47wenln6r2sbvtavntobmm47lmmw6sceb90roph0gk&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> -->
 <!-- <img align="right" height="140" width="330" alt="GIF" src="https://media.giphy.com/media/uDK2KwBp4OHfw9k2Wv/giphy.gif"/> -->
 
  - 🍰 Javascript and I share the exact same <a href="https://en.wikipedia.org/wiki/JavaScript">**Birthday** </a>

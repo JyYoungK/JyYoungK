@@ -38,7 +38,6 @@
  - 🍰 Javascript and I share the exact same <a href="https://en.wikipedia.org/wiki/JavaScript">**Birthday** </a>
  - 🌱 Interested In **Stunning Websites | Art | Space |  Music | Cats**
  - 👔 Always down to collaborate on **Web Development/Photoshoot/Food** 
- - ❓ I help people related to Frontend questions here https://discord.gg/programming <img src="https://user-images.githubusercontent.com/28119362/229185935-32a91a27-da85-461a-93f5-963bdb1dbe94.png" title="DiscordJS" alt="DiscordJS" width="15" height="15"/>&nbsp;
 
   
 ---

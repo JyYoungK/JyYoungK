@@ -7,9 +7,9 @@
   <a href="https://www.linkedin.com/in/junyoung-kang/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:johnnykang1204@gmail.com">
+<!--   <a href="mailto:johnnykang1204@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  </a> -->
 <!--   <a href="https://www.youtube.com/channel/UC5tNsxkshctFCydkrwHKuTw">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="Youtube Badge"/>
   </a> -->

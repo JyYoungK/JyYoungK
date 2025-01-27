@@ -65,7 +65,7 @@
     <img src=https://img.icons8.com/?size=100&id=13441&format=png&color=000000 title="Python" alt="Python" width="60" height="60"/>&nbsp;
     <img src=https://play-lh.googleusercontent.com/NXBN3ePNBZjhnNcrvDAmfzNlC3aIapALIbFrrGt6m2B7TGBVU_1rzI5kWQdSXCFw8I7Y title="Spotfire" alt="Spotfire" width="60" height="60"/>&nbsp;
 
-  <h3> Other </h3>
+  <h3> UI/UX </h3>
     <img src="https://user-images.githubusercontent.com/28119362/229188849-ab76ef43-52b0-4a0a-b5be-4d7f6b37c17e.png" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
     <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
     <img src="https://img.icons8.com/fluency/100/midjourney.png" title="Midjourney" alt="Midjourney" width="60" height="60"/>&nbsp;

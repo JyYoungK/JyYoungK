@@ -62,6 +62,9 @@
     <img src="https://user-images.githubusercontent.com/28119362/229187173-1081ce87-8132-4750-b34d-57c1c5ddb166.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
     <img src="https://user-images.githubusercontent.com/28119362/229197325-77f7ea93-3f60-4c77-9ae7-ed875ef2e836.png" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;&nbsp;
 
+
+  <img src=https://play-lh.googleusercontent.com/NXBN3ePNBZjhnNcrvDAmfzNlC3aIapALIbFrrGt6m2B7TGBVU_1rzI5kWQdSXCFw8I7Y title="Spotfire" alt="Spotfire" width="60" height="60"/>&nbsp;
+
   <h3> Other </h3>
       <img src="https://user-images.githubusercontent.com/28119362/229188849-ab76ef43-52b0-4a0a-b5be-4d7f6b37c17e.png" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;

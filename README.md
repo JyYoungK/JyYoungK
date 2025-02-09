@@ -38,11 +38,11 @@
 ## :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-  <h3> Frontend </h3>
-    <img src="https://user-images.githubusercontent.com/28119362/229198580-8c9a0e34-ac71-41b2-88f7-3bb088e4577e.png" title="React" alt="React" width="60" height="60"/>&nbsp;
-    <img src=https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000 title="NextJS" alt="NextJS" width="60" height="60"/>&nbsp;
-    <img src="https://user-images.githubusercontent.com/28119362/229185351-138f31b4-6e72-49d8-9059-fbbf7b5ba362.png" title="CSS" alt="CSS" width="60" height="60"/>&nbsp; 
-    <img src="https://user-images.githubusercontent.com/28119362/229185699-a01aa877-65a1-4d74-bbb4-e910bdeda0fa.png" title="Tailwind" alt="Tailwind" width="60" height="60"/>&nbsp; 
+<!--  <h3> Frontend </h3> -->
+<!--  <img src="https://user-images.githubusercontent.com/28119362/229198580-8c9a0e34-ac71-41b2-88f7-3bb088e4577e.png" title="React" alt="React" width="60" height="60"/>&nbsp; -->
+<!--  <img src=https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000 title="NextJS" alt="NextJS" width="60" height="60"/>&nbsp; -->
+<!--  <img src="https://user-images.githubusercontent.com/28119362/229185351-138f31b4-6e72-49d8-9059-fbbf7b5ba362.png" title="CSS" alt="CSS" width="60" height="60"/>&nbsp; -->
+<!--  <img src="https://user-images.githubusercontent.com/28119362/229185699-a01aa877-65a1-4d74-bbb4-e910bdeda0fa.png" title="Tailwind" alt="Tailwind" width="60" height="60"/>&nbsp; -->
 
 <!--   <img src="https://user-images.githubusercontent.com/28119362/229185465-0607d231-1d52-4473-859b-6be36106538a.png" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp; -->
 <!--   <img src="https://user-images.githubusercontent.com/28119362/229184789-cad7f4e2-ba57-4084-a4f6-84e09fc0cbdf.png" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; -->

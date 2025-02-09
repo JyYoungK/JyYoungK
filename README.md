@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/oOrGB2hdeCGKU3Yagc/giphy.gif" width="150"/>
 
-  <div id="badges">
+   <!-- <div id="badges"> -->
    <!--   <a href="https://www.linkedin.com/in/junyoung-kang/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>  -->
@@ -17,7 +17,7 @@
   <!--   <a href="https://jykart.ca/">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website Badge"/>
     </a> -->
-  </div>
+   <!-- </div> -->
 
   <!--  <div id="badges">  -->
   <!--    <h1>  -->
@@ -37,7 +37,7 @@
   
  <!-- ## :hammer_and_wrench: Languages and Tools : -->
 
-<div align="center">
+ <!-- <div align="center"> -->
 <!--  <h3> Frontend </h3> -->
 <!--  <img src="https://user-images.githubusercontent.com/28119362/229198580-8c9a0e34-ac71-41b2-88f7-3bb088e4577e.png" title="React" alt="React" width="60" height="60"/>&nbsp; -->
 <!--  <img src=https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000 title="NextJS" alt="NextJS" width="60" height="60"/>&nbsp; -->

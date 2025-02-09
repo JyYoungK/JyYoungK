@@ -1,28 +1,26 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/oOrGB2hdeCGKU3Yagc/giphy.gif" width="150"/>
-
-  <div id="badges"> 
-   <!--   <a href="https://www.linkedin.com/in/junyoung-kang/">
+  <!-- <div id="badges"> -->
+   <!--  <a href="https://www.linkedin.com/in/junyoung-kang/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>  -->
-  <!--   <a href="mailto:johnnykang1204@gmail.com">
+  <!--  <a href="mailto:johnnykang1204@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a> -->
-  <!--   <a href="https://www.youtube.com/channel/UC5tNsxkshctFCydkrwHKuTw">
+  <!--  <a href="https://www.youtube.com/channel/UC5tNsxkshctFCydkrwHKuTw">
       <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="Youtube Badge"/>
     </a> -->
-  <!--   <a href="https://discord.gg/programming">
+  <!--  <a href="https://discord.gg/programming">
       <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord Badge"/>
     </a> -->
-  <!--   <a href="https://jykart.ca/">
+  <!--  <a href="https://jykart.ca/">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website Badge"/>
     </a> -->
-  </div> 
-
+  <!-- </div> -->
   <!--  <div id="badges">  -->
   <!--    <h1>  -->
-   <!--      Hi! I'm Junyoung  -->
-   <!--   </h1>  -->
+  <!--      Hi! I'm Junyoung  -->
+  <!--   </h1>  -->
   <!--   <h2>  -->
   <!--   👨‍💻 From Toronto, Canada <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Animated-Flag-Canada.gif" width="30">  -->
   <!--   </h2>  -->
@@ -32,8 +30,7 @@
   <!--    <h3> 🌱 Interested In **🎨 Art | 🚀 Space | 🎶 Music | 🐾 Cats"** </h3>  -->
   <!--  </div>  -->
   
----
-  
+
   
  <!-- ## :hammer_and_wrench: Languages and Tools : -->
 
@@ -61,12 +58,10 @@
 <!--    <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" title="Figma" alt="Figma" width="60" height="60"/>&nbsp; -->
 <!--    <img src="https://img.icons8.com/fluency/100/midjourney.png" title="Midjourney" alt="Midjourney" width="60" height="60"/>&nbsp; -->
 
-</div>
 
 
 
 
----
 
 
 ## 🙂 Have a great day! 

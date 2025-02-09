@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/oOrGB2hdeCGKU3Yagc/giphy.gif" width="150"/>
 
-   <!-- <div id="badges"> -->
+  <div id="badges"> 
    <!--   <a href="https://www.linkedin.com/in/junyoung-kang/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>  -->
@@ -17,7 +17,7 @@
   <!--   <a href="https://jykart.ca/">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website Badge"/>
     </a> -->
-   <!-- </div> -->
+  </div> 
 
   <!--  <div id="badges">  -->
   <!--    <h1>  -->
